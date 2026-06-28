@@ -1,4 +1,4 @@
-# E-Commerce Sales Dataset — EDA Guide
+# E-Commerce Sales Dataset — EDA Guide # EDA-Project-Firdaus-Khan-Intern-ID-CITS2712
 
 ## Dataset Overview
 **File:** `ecommerce_sales.csv`  
