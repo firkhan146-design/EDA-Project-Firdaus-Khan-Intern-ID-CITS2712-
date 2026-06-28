@@ -1,0 +1,36 @@
+order_id,customer_id,age,gender,city,category,product,quantity,unit_price,discount_pct,payment_method,order_date,delivery_days,rating,returned
+1001,C045,28,Male,Mumbai,Electronics,Laptop,1,55000,10,UPI,2024-01-03,4,4.5,No
+1002,C012,34,Female,Delhi,Clothing,Kurta,2,1200,5,Credit Card,2024-01-05,6,3.8,No
+1003,C078,22,Male,Bangalore,Electronics,Earbuds,1,2500,0,Cash,2024-01-07,3,4.2,No
+1004,C091,45,Female,Pune,Home & Kitchen,Mixer Grinder,1,3800,15,Debit Card,2024-01-09,5,4.7,No
+1005,C033,31,Male,Hyderabad,Books,Data Science Handbook,3,450,0,UPI,2024-01-11,2,4.0,No
+1006,C067,26,Female,Chennai,Beauty,Moisturiser,2,650,10,Credit Card,2024-01-13,7,3.5,Yes
+1007,C019,38,Male,Mumbai,Electronics,Smartphone,1,28000,5,EMI,2024-01-15,4,4.8,No
+1008,C052,29,Female,Delhi,Clothing,Jeans,1,1800,20,UPI,2024-01-17,6,3.2,Yes
+1009,C084,41,Male,Bangalore,Sports,Yoga Mat,1,900,0,Cash,2024-01-19,3,4.6,No
+1010,C007,24,Female,Pune,Electronics,Smartwatch,1,8500,8,Credit Card,2024-01-21,5,4.3,No
+1011,C063,55,Male,Hyderabad,Home & Kitchen,Air Purifier,1,12000,12,Debit Card,2024-01-23,6,4.1,No
+1012,C028,32,Female,Chennai,Books,Python Programming,2,599,0,UPI,2024-01-25,2,4.5,No
+1013,C071,27,Male,Mumbai,Beauty,Face Wash,3,300,5,Cash,2024-01-27,4,3.9,No
+1014,C015,36,Female,Delhi,Sports,Running Shoes,1,4200,10,Credit Card,2024-02-01,5,4.4,No
+1015,C089,23,Male,Bangalore,Electronics,Tablet,1,18000,7,EMI,2024-02-03,4,4.6,No
+1016,C041,48,Female,Pune,Clothing,Saree,1,3500,0,UPI,2024-02-05,7,4.9,No
+1017,C056,30,Male,Hyderabad,Books,ML with Python,1,799,0,Cash,2024-02-07,2,4.2,No
+1018,C003,44,Female,Chennai,Home & Kitchen,Vacuum Cleaner,1,6500,10,Credit Card,2024-02-09,6,3.7,Yes
+1019,C077,25,Male,Mumbai,Sports,Dumbbells Set,1,2200,0,Debit Card,2024-02-11,3,4.5,No
+1020,C031,37,Female,Delhi,Electronics,Bluetooth Speaker,1,3200,15,UPI,2024-02-13,5,4.0,No
+1021,C065,21,Male,Bangalore,Beauty,Sunscreen,2,450,0,Cash,2024-02-15,4,3.6,No
+1022,C048,52,Female,Pune,Home & Kitchen,Pressure Cooker,1,2100,5,Credit Card,2024-02-17,5,4.8,No
+1023,C009,29,Male,Hyderabad,Clothing,T-Shirt,3,599,10,UPI,2024-02-19,6,3.4,Yes
+1024,C082,33,Female,Chennai,Electronics,Laptop,1,62000,8,EMI,2024-02-21,4,4.7,No
+1025,C024,40,Male,Mumbai,Books,Statistics Book,2,750,0,Cash,2024-02-23,2,4.1,No
+1026,C059,26,Female,Delhi,Sports,Cycle,1,9500,5,Credit Card,2024-02-25,7,4.3,No
+1027,C016,35,Male,Bangalore,Beauty,Perfume,1,1800,20,Debit Card,2024-02-27,4,3.8,Yes
+1028,C073,43,Female,Pune,Electronics,Smart TV,1,35000,10,EMI,2024-03-02,5,4.9,No
+1029,C038,28,Male,Hyderabad,Clothing,Jacket,1,2800,15,UPI,2024-03-04,6,4.2,No
+1030,C061,31,Female,Chennai,Home & Kitchen,Coffee Maker,1,4200,0,Cash,2024-03-06,3,4.6,No
+1031,C005,47,Male,Mumbai,Sports,Cricket Bat,1,1500,10,Credit Card,2024-03-08,4,4.0,No
+1032,C087,22,Female,Delhi,Books,SQL for Beginners,1,499,0,UPI,2024-03-10,2,3.9,No
+1033,C043,39,Male,Bangalore,Electronics,Earbuds,2,2500,5,Cash,2024-03-12,3,4.4,No
+1034,C026,50,Female,Pune,Beauty,Anti-Ageing Cream,1,2200,8,Debit Card,2024-03-14,5,4.1,No
+1035,C069,27,Male,Hyderabad,Home & Kitchen,Induction Cooktop,1,3100,12,Credit Card,2024-03-16,6,4.7,No
