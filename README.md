@@ -1,6 +1,23 @@
 # EDA-Project-Firdaus-Khan-Intern-ID-CITS2712-
-E-Commerce Sales Dataset — EDA Guide # EDA-Project-Firdaus-Khan-Intern-ID-CITS2712
-Dataset Overview
+E-Commerce Sales Dataset —
+# Project Overview
+This project performs Exploratory Data Analysis (EDA) on a simulated Indian e-commerce sales dataset containing 35 orders across 6 cities (Mumbai, Delhi, Bangalore, Pune, Hyderabad, Chennai) for the period January–March 2024.
+The goal is to uncover patterns in customer behaviour, revenue distribution, product preferences, and delivery performance through structured visual and statistical analysis.
+
+Dataset Summary
+PropertyDetailRows35Columns15Time PeriodJan 2024 – Mar 2024Cities Covered6CategoriesElectronics, Clothing, Books, Beauty, Sports, Home & Kitchen
+
+Key Objectives
+
+Identify top-performing categories and cities by revenue
+Analyse the impact of delivery time on customer ratings
+Understand return rate patterns across categories and discount levels
+Explore payment method preferences across demographics
+Derive actionable business insights through visualisations
+
+
+Tools & Libraries Used
+Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
 File: ecommerce_sales.csv
 Rows: 35 | Columns: 15
 Simulated Indian e-commerce orders across 5 cities, Jan–Mar 2024.
